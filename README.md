@@ -1,4 +1,4 @@
-# baguzite,com
+# baguzite.com
 
 [baguzite.com] {https://baguzite.com} is the personal website of mine. Passionately created by hand.
 
@@ -11,10 +11,8 @@
 
 ## Screenshot
 
-![Home]()
+![Home](images/Screenshot_home.png)
 
-![AboutMe]()
+![AboutMe](images/Screenshot_aboutme.png)
 
-![Portfolio]()
-
-![Contact]()
+![Portfolio](images/Screenshot_portfolio.png)
